@@ -1,9 +1,9 @@
 class newfilewithcontent{
 public static void main(String args[])
 {
-System.out.println("hello");
+method1();
 }
-pubic void method1()
+pubic static void method1()
 {
 System.out.println("hi");
 }
